@@ -11,7 +11,7 @@ The Assembly Kit has these modules [3] ...
 - DaVE (Database Visual Editor)
 - BoB (Build-on One Button) creates .pack files.
 - TerrE (Terrain Editor) for battle maps.
-- Variant Editor (no cool name) for unit models.
+- Variant Editor for unit models.
 
 ## Reference
 
