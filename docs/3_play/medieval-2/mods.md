@@ -1,0 +1,6 @@
+- [Divide and Conquer](https://www.moddb.com/mods/divide-and-conquer) @ moddb. Lord of the Rings.
+- [Elder Scrolls](https://www.moddb.com/mods/the-elder-scrolls-total-war) @ moddb.
+- [Stainless Steel](https://www.moddb.com/mods/stainless-steel) @ moddb.
+- [Stainless Steel](https://wiki.twcenter.net/index.php?title=Stainless_Steel) @ twcenter.
+- [Third Age](https://www.moddb.com/mods/third-age-total-war) @ moddb. Lord of the Rings.
+- [Westeros](https://www.moddb.com/mods/westeros-total-war) @ moddb. Game of Thrones.
