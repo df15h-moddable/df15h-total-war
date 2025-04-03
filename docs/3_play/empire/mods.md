@@ -1,0 +1,6 @@
+- [Absolutum Dominium](https://www.moddb.com/mods/absolutum-dominium) @ moddb. Updated 2020 - 2023.
+- [Absolutum Dominium: Monuments & Wonders Pack](https://www.moddb.com/mods/absolutum-dominium-monuments-wonders) @ moddb. Updated 2022 - 2022.
+- [The American Revolution](https://www.moddb.com/mods/the-american-revolution) @ moddb. Updated 2018 - 2019.
+- [DarthMod](https://www.moddb.com/mods/darthmod-empire) @ moddb. Updated 2009 - 2013.
+- [Empire Total War II](https://www.moddb.com/mods/empire-total-war-ii) @ moddb. Updated 2022 - 2022.
+- [Imperial Splendour](https://www.moddb.com/mods/imperial-splendour) @ moddb. Updated 2012 - 2022.
