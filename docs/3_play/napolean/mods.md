@@ -1,0 +1,3 @@
+- [The Great War](https://www.moddb.com/mods/the-great-war-mod) @ moddb. World War I.
+- [Napoleonic Total War 3](https://www.moddb.com/mods/napoleonic-total-war-3) @ moddb.
+- [Napoleonic Total War 3](https://wiki.twcenter.net/index.php?title=Napoleonic:_Total_War_III) @ twcenter.
